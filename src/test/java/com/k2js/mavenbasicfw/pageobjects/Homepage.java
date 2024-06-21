@@ -29,5 +29,9 @@ public class Homepage {
 		
 		this.userIconElement.click();
 	}
+public void clickuseIcon() {
+		
+		this.userIconElement.click();
+	}
 
 }
