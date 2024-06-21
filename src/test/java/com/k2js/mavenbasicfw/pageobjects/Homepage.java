@@ -22,6 +22,9 @@ public class Homepage {
 		return this.driver.getTitle();
 	}
 	
+	public String getexpectedTitle() {
+		return this.driver.getTitle();
+	}
 	public void clickuserIcon() {
 		
 		this.userIconElement.click();
