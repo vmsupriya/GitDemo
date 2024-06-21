@@ -33,5 +33,14 @@ public void clickuseIcon() {
 		
 		this.userIconElement.click();
 	}
+public static void testTheApplication() {
+	
+	System.out.println("Test application1");
+	System.out.println("Test application1");
+	System.out.println("Test application1");
+	System.out.println("Test application1");
+	System.out.println("Test application1");
+	System.out.println("Test application1");
+}
 
 }
